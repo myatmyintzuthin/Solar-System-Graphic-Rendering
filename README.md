@@ -6,7 +6,6 @@ Steps:
 
 ## Demo
 This is the demonstration of 9 planets moving around the sun :sun_with_face:
-<p align="center">
-    <img src="SolarSystem.gif" alt="drawing" width="200"/>
-</p>
+
+<img src="SolarSystem.gif" alt="drawing" width="300"/>
 
