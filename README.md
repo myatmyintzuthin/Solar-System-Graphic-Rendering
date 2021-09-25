@@ -5,5 +5,6 @@ Steps:
 - Make the planets to move on their own orbits.
 
 ## Demo
-This is the demonstration of 9 planets moving around the sun :sun_with_face:
-![](SolarSystem.gif)
+This is the demonstration of 9 planets moving around the sun :sun_with_face: \
+<img src="SolarSystem.gif" alt="drawing" width="200"/>
+
